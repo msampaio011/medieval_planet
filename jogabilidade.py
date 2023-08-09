@@ -78,7 +78,7 @@ def PassarPelosGuardas(personagem, guardas):
         print(f"{personagem['nome']} derrotou todos os guardas e é o grande campeão!")
 
 personagem = {
-    "nome": "CR71",
+    "nome": "CRT71",
     "dinheiro": 30,
     "Vida": 100,
     "mochila": [],
